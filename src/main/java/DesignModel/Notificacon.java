@@ -15,7 +15,7 @@
 public class Notificacon {
 	private String titulo;
 	private String cuerpo;
-	private el.Diagrama de clases.TipoNotificacion tipo;
+	private el.Diagrama de clases.TipoNotificacion tipo; CREAR ENUM
 	public void new() {
 	
 	}

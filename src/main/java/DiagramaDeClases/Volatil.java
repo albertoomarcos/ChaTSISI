@@ -11,8 +11,7 @@
 
 
 
-package Diagrama de clases;
-
+package DiagramaDeClases;
 
 public class Volatil extends Mensaje {
 	public Object tiempoDeVida;

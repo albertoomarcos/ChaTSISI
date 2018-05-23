@@ -2,7 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dd33c43-f181-41c5-8fc0-b8b506cb2526" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/Agenda.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/Agenda.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/BDAgenda.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/BDAgenda.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/BDConversacion.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/BDConversacion.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/BDPerfil.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/BDPerfil.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/BDUsuario.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/BDUsuario.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/ConcreteCreator.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/ConcreteCreator.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/ConcreteProduct.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/ConcreteProduct.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/ControladorAgenda.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/ControladorAgenda.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/ControladorConversacion.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/ControladorConversacion.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/ControladorPerfil.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/ControladorPerfil.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/ControladorUsuario.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/ControladorUsuario.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/Conversacion.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/Conversacion.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/Creator.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/Creator.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/GUIConversacion.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/GUIConversacion.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/GUINotificacion.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/GUINotificacion.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/Grupal.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/Grupal.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/IContactosAgenda.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/IContactosAgenda.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/IConversacionFactoryMethod.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/IConversacionFactoryMethod.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/IDataBase.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/IDataBase.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/IMensajeable.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/IMensajeable.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/INotificable.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/INotificable.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/Individual.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/Individual.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/Mensaje.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/Mensaje.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/Notificacon.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/Notificacon.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/Perfil.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/Perfil.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/Product.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/Product.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/Usuario.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/Usuario.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignModel/Volatil.java" afterPath="$PROJECT_DIR$/src/main/java/DesignModel/Volatil.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Agenda.java" afterPath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Agenda.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Conversacion.java" afterPath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Conversacion.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Grupal.java" afterPath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Grupal.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Individual.java" afterPath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Individual.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Mensaje.java" afterPath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Mensaje.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Notificacion.java" afterPath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Notificacion.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Perfil.java" afterPath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Perfil.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Usuario.java" afterPath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Usuario.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Volatil.java" afterPath="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Volatil.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,71 +51,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BDAgenda.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/BDAgenda.java">
+      <file leaf-file-name="Volatil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/Volatil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BDConversacion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/BDConversacion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BDPerfil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/BDPerfil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BDUsuario.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/BDUsuario.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcreteCreator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/ConcreteCreator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcreteProduct.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/ConcreteProduct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Conversacion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Conversacion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="118">
+              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -88,8 +64,18 @@
       <file leaf-file-name="Agenda.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Agenda.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="-69">
               <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Conversacion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Conversacion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -98,18 +84,68 @@
       <file leaf-file-name="Grupal.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Grupal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="102">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Notificacion.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Individual.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Individual.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mensaje.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Mensaje.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Notificacion.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Notificacion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Perfil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Perfil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Usuario.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Usuario.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Volatil.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Volatil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -135,12 +171,42 @@
         <option value="$PROJECT_DIR$/src/main/java/DESIGNMODEL/ControladorUsuario.java" />
         <option value="$PROJECT_DIR$/src/main/java/DESIGNMODEL/Grupal.java" />
         <option value="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Agenda.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Volatil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Usuario.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Perfil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Notificacion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Conversacion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Grupal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Individual.java" />
         <option value="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Mensaje.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Notificacion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Perfil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Usuario.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiagramaDeClases/Volatil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/Notificacon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/IContactosAgenda.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/INotificable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/IMensajeable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/IDataBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/IConversacionFactoryMethod.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignModel/Agenda.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/BDAgenda.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/BDConversacion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/BDPerfil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/BDUsuario.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/ConcreteCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/Creator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/Volatil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/ConcreteProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/ControladorAgenda.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/ControladorConversacion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/ControladorPerfil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/ControladorUsuario.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/Conversacion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/Grupal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/GUIConversacion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/GUINotificacion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/Individual.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/Mensaje.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/Perfil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignModel/Usuario.java" />
       </list>
     </option>
   </component>
@@ -419,7 +485,7 @@
       <option name="presentableId" value="Default" />
       <updated>1527066912867</updated>
       <workItem from="1527066922160" duration="2216000" />
-      <workItem from="1527069809449" duration="99000" />
+      <workItem from="1527069809449" duration="1194000" />
     </task>
     <servers />
   </component>
@@ -432,7 +498,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2315000" />
+    <option name="totallyTimeSpent" value="3410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="-194" width="1382" height="744" extended-state="6" />
@@ -495,41 +561,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/ControladorAgenda.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/ControladorConversacion.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/ControladorPerfil.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/ControladorUsuario.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/Conversacion.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/Creator.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/Grupal.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/GUIagenda.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/GUIConversacion.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/GUINotificacion.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/GUIPerfil.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/IMensajeable.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Volatil.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Usuario.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Perfil.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Mensaje.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/Agenda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="306">
+          <caret line="51" column="23" lean-forward="false" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/BDAgenda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="119">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/BDConversacion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="238">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
         </state>
@@ -538,7 +598,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/BDPerfil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -546,7 +606,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/BDUsuario.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -554,7 +614,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/ConcreteCreator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -562,39 +622,271 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/ConcreteProduct.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/ControladorAgenda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/ControladorConversacion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/ControladorPerfil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/ControladorUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/Conversacion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/Creator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/Grupal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/GUIagenda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Conversacion.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/GUIConversacion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="85">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/GUIPerfil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/GUINotificacion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/IContactosAgenda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/IConversacionFactoryMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="86" lean-forward="false" selection-start-line="19" selection-start-column="86" selection-end-line="19" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/IDataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/IMensajeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/Individual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/INotificable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/Mensaje.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/Notificacon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/Perfil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/Usuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1118#1119#0" expanded="false" />
+            <element signature="e#1136#1137#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignModel/Volatil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Agenda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="-69">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Conversacion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Grupal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="102">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Individual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Mensaje.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Notificacion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="153">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Perfil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Usuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiagramaDeClases/Volatil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding />
         </state>
       </provider>

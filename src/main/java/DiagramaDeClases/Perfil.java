@@ -11,8 +11,7 @@
 
 
 
-package Diagrama de clases;
-
+package DiagramaDeClases;
 
 public class Perfil {
 	public Object alias;

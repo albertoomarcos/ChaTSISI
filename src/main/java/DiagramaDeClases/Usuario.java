@@ -11,8 +11,7 @@
 
 
 
-package Diagrama de clases;
-
+package DiagramaDeClases;
 
 public class Usuario {
 	public Object idUsuario;

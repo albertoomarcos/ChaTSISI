@@ -11,8 +11,7 @@
 
 
 
-package Diagrama de clases;
-
+package DiagramaDeClases;
 
 public class Individual extends Conversacion {
 	public void iniciarChat() {

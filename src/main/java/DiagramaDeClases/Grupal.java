@@ -11,8 +11,7 @@
 
 
 
-package Diagrama de clases;
-
+package DiagramaDeClases;
 
 public class Grupal extends Conversacion {
 	public void aniadirParticipante() {
